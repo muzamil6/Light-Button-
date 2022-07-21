@@ -30,3 +30,9 @@ a span{
     position: absolute;
     display: block;
 }
+a span:nth-child(1){
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+}
